@@ -1,1 +1,16 @@
-["kunal","https://raw.githubusercontent.com/Ksee-yt/Media/main/Gifs/twin-towers-south-tower.gif"]
+{
+  "chatters": [
+    {
+      "username": "Kunal",
+      "profileImage": "https://raw.githubusercontent.com/Ksee-yt/Media/main/Gifs/twin-towers-south-tower.gif"
+    },
+    {
+      "username": "Kunal 2",
+      "profileImage": "https://raw.githubusercontent.com/Ksee-yt/Media/main/Gifs/subida.gif"
+    },
+    {
+      "username": "Kunal 3",
+      "profileImage": "https://raw.githubusercontent.com/Ksee-yt/Media/main/Gifs/heisenberg-walter-white.gif"
+    }
+  ]
+}
